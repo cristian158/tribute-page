@@ -16,6 +16,10 @@ body {
   margin: 0;
 }
 
+#tribute-info {
+  padding: 1em;
+}
+
 h1 {
   font-size: 4rem;
   margin-bottom: 0;
